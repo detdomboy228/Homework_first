@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aboba">Возможно ли купить деловой костюм на имеющиеся средства?</string>
+    <string name="flag">Сколько останется на счету после покупки?</string>
+</resources>
